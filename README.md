@@ -1,5 +1,5 @@
 # Codapli - GAMA
-Proyecto para la materia Proyecto, UTN FRLP
+Proyecto para la materia Proyecto ![UTN FRLP](/assets/images/logo-frlp.png)
 ciclo lectivo 2022
 
 Realizado en React
